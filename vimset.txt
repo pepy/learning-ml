@@ -1,0 +1,1 @@
+to create a good enviroment for python in vim
